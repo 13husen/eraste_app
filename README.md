@@ -19,6 +19,6 @@ Web Aplikasi no style eraste yang fleksibel dan mudah di setting  :
 
 
 Note : 
-"/"  => untuk web penjualan
-"/login" => untuk login
-"/home" => untuk dashboard backoffice (harus login) 
+- "/"  => untuk web penjualan
+- "/login" => untuk login
+- "/home" => untuk dashboard backoffice (harus login) 
