@@ -6,7 +6,7 @@ Web Aplikasi no style eraste yang fleksibel dan mudah di setting  :
 - di config/database
 - jalankan perintah : 
 
-> cp .env.example .env
+> cp env .env
 
 - lalu ubah .env nya
 2. **jalankan perintah:** 
