@@ -6,7 +6,7 @@ Web Aplikasi no style eraste yang fleksibel dan mudah di setting  :
 - di config/database
 - jalankan perintah : 
 
-> cp env .env
+> cp .env.example .env
 
 - lalu ubah .env nya
 2. **jalankan perintah:** 
@@ -18,5 +18,7 @@ Web Aplikasi no style eraste yang fleksibel dan mudah di setting  :
 > php artisan serve
 
 
-
-
+Note : 
+"/"  => untuk web penjualan
+"/login" => untuk login
+"/home" => untuk dashboard backoffice (harus login) 
